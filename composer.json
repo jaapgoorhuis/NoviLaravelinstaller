@@ -1,5 +1,5 @@
 {
-  "name": "jaapgoorhuis/NoviLaravelinstaller",
+  "name": "jaapgoorhuis/novilaravelinstaller",
   "description": "Laravel web installer",
   "license": "MIT",
   "authors": [
@@ -11,7 +11,7 @@
   "require": {},
   "autoload": {
     "psr-4": {
-      "Jaapgoorhuis\\NoviLaravelinstaller\\": "src/"
+      "Jaapgoorhuis\\novilaravelinstaller\\": "src/"
     },
     "files": [
       "src/functions.php"
